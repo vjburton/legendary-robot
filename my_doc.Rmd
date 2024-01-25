@@ -34,7 +34,6 @@ Change the plot colours
 plot(x, y, col="red")
 ```
 
-
 ## Cute doggy
 Because you deserve it
 
