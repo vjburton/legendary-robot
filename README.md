@@ -1,2 +1,2 @@
 # legendary-robot
-Git training
+This is a file creating for reproducibility training.
