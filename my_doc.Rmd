@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # Victoria's amazing Markdown document
 
 ## Words
-A paragraph of words, many many words. 
+A paragraph of words, many many words.
 
 ## Numbers
 Look some code!
@@ -33,6 +33,7 @@ Change the plot colours
 ```{r}
 plot(x, y, col="red")
 ```
+
 
 ## Cute doggy
 Because you deserve it
