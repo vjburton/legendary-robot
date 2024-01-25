@@ -9,21 +9,34 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## A heading
-A paragraph of words, many many words. So many words. Yawn.
+# Victoria's amazing Markdown document
 
+## Words
+A paragraph of words, many many words. 
+
+## Numbers
 Look some code!
 
 ```{r}
 # I am making some new data
-
 x <- rnorm(100, 0, 1)
-
+y <- rnorm(100, 3, 1)
 ```
 
 And a plot
 ```{r}
 # plot the data
-plot(x)
+plot(x, y)
 ```
 
+Change the plot colours
+```{r}
+plot(x, y, col="red")
+```
+
+## Cute doggy
+Because you deserve it
+
+![Rudy](https://pbs.twimg.com/profile_banners/65414325/1705674901/1500x500)
+
+## The end
