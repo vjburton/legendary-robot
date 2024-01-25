@@ -1,0 +1,29 @@
+---
+title: "Amazing document"
+author: "Victoria J Burton"
+date: '`r Sys.Date()`'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## A heading
+A paragraph of words, many many words. So many words. Yawn.
+
+Look some code!
+
+```{r}
+# I am making some new data
+
+x <- rnorm(100, 0, 1)
+
+```
+
+And a plot
+```{r}
+# plot the data
+plot(x)
+```
+
