@@ -31,7 +31,7 @@ plot(x, y)
 
 Change the plot colours
 ```{r}
-plot(x, y, col="red")
+plot(x, y, col="olivedrab2")
 ```
 
 ## Cute doggy
