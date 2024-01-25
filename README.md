@@ -1,2 +1,2 @@
 # legendary-robot
-This is a file creating for reproducibility training.
+This is a file created for reproducibility training.
